@@ -1,0 +1,381 @@
+<?xml version="1.0" ?>
+<people>
+	<person>
+		<name>Harry Potter</name>
+		<house>Gryffindor</house>
+		<image>harry.jpg</image>
+		<actor>Daniel Radcliffe</actor>
+		<patronus>stag</patronus>
+		<wand>phoenix feather</wand>
+		<dateOfBirth>31-07-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>This boy will be famous, a legend. I wouldn't be surprised if today was known as Harry Potter day in future. There will be books written about Harry, every child in our world will know his name!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Harry_Potter</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Daniel_Radcliffe</actorLink>
+	</person>
+	<person>
+		<name>Hermione Granger</name>
+		<house>Gryffindor</house>
+		<image>hermione.jpg</image>
+		<actor>Emma Watson</actor>
+		<patronus>otter</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>19-09-1979</dateOfBirth>
+		<gender>female</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>Because that's what Hermione does.When in doubt, go to the library.How come you're not in Ravenclaw? With brains like yours?</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Hermione_Granger</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Emma_Watson</actorLink>
+	</person>
+	<person>
+		<name>Ron Weasley</name>
+		<house>Gryffindor</house>
+		<image>ron.jpg</image>
+		<actor>Rupert Grint</actor>
+		<patronus>Jack Russell terrier</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>01-03-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood> Everyone expects me to do as well as the others, but if I do, it's no big deal, because they did it first!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Ronald_Weasley</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Rupert_Grint</actorLink>
+	</person>
+	<person>
+		<name>Draco Malfoy</name>
+		<house>Slytherin</house>
+		<image>draco.jpg</image>
+		<actor>Tom Felton</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>05-06-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>I really don't think they should let the other sort in, do you? They're just not the same, they've never been brought up to know our ways!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Draco_Malfoy</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Tom_Felton</actorLink>
+	</person>
+	<person>
+		<name>Minerva McGonagall</name>
+		<house>Gryffindor</house>
+		<image>mcgonagall.jpg</image>
+		<actor>Dame Maggie Smith</actor>
+		<patronus>tabby cat</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>Transfiguration is some of the most complex and dangerous magic you will learn at Hogwarts. Anyone messing around in my class will leave and not come back!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Minerva_McGonagall</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Maggie_Smith</actorLink>
+	</person>
+	<person>
+		<name>Cedric Diggory</name>
+		<house>Hufflepuff</house>
+		<image>cedric.jpg</image>
+		<actor>Robert Pattinson</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn hair</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Hufflepuff,where they are just and loyal ,those patient Hufflepuffs are true and unafraid of toil.</species>
+		<blood>Remember, if the time should come, when you have to make a choice between what is right and what is easy, remember what happened to a boy who was good, and kind, and brave, because he strayed across the path of Lord Voldemort!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Cedric_Diggory</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Robert_Pattinson</actorLink>
+	</person>
+	<person>
+		<name>Cho Chang</name>
+		<house>Ravenclaw</house>
+		<image>cho.jpg</image>
+		<actor>Katie Leung</actor>
+		<patronus>swan</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>Or yet in wise old Ravenclaw, if you've a ready mind ,where those of wit and learning will always find their kind.</species>
+		<blood>Obviously, she is feeling very sad, because of Cedric dying. Then I expect she's feeling confused because she liked Cedric and now she likes Harry, and she can't work out who she likes best!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Cho_Chang</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Katie_Leung</actorLink>
+	</person>
+	<person>
+		<name>Severus Snape</name>
+		<house>Slytherin</house>
+		<image>snape.jpg</image>
+		<actor>Alan Rickman</actor>
+		<patronus>doe</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>09-01-1960</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>Doesn’t your dad like magic? He doesn’t like anything that much.How come you're not in Ravenclaw? With brains like yours?</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Severus_Snape</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Alan_Rickman</actorLink>
+	</person>
+	<person>
+		<name>Rubeus Hagrid</name>
+		<house>Gryffindor</house>
+		<image>hagrid.jpg</image>
+		<actor>Robbie Coltrane</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>06-12-1928</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>My dad was broken-hearted when she wenTiny little bloke, my dad was. By the time I was six I could lift him up an put him on top of the dresser if he annoyed me. Used ter make him laugh!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Rubeus_Hagrid</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Robbie_Coltrane</actorLink>
+	</person>
+	<person>
+		<name>Neville Longbottom</name>
+		<house>Gryffindor</house>
+		<image>neville.jpg</image>
+		<actor>Matthew Lewis</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>30-07-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>The one with the power to vanquish the Dark Lord approaches... Born to those who have thrice defied him, born as the seventh month dies!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Neville_Longbottom</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Matthew_Lewis_(actor)</actorLink>
+	</person>
+	<person>
+		<name>Luna Lovegood</name>
+		<house>Ravenclaw</house>
+		<image>luna.jpg</image>
+		<actor>Evanna Lynch</actor>
+		<patronus>hare</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>13-02-1981</dateOfBirth>
+		<gender>female</gender>
+		<species>Or yet in wise old Ravenclaw, if you've a ready mind ,where those of wit and learning will always find their kind.</species>
+		<blood>The girl gave off an aura of distinct dottiness. Perhaps it was the fact that she had stuck her wand behind her left ear for safekeeping, or that she had chosen to wear a necklace of Butterbeer caps, or that she was reading a magazine upside down!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Luna_Lovegood</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Evanna_Lynch</actorLink>
+	</person>
+	<person>
+		<name>Ginny Weasley</name>
+		<house>Gryffindor</house>
+		<image>ginny.jpg</image>
+		<actor>Bonnie Wright</actor>
+		<patronus>horse</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>11-08-1981</dateOfBirth>
+		<gender>female</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>Yeah, size is no guarantee of power. Look at Ginny.You're not old enough, Ginny, now be quiet!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Ginevra_Weasley</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Bonnie_Wright</actorLink>
+	</person>
+	<person>
+		<name>Sirius Black</name>
+		<house>Gryffindor</house>
+		<image>sirius.JPG</image>
+		<actor>Gary Oldman</actor>
+		<patronus>hare</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>03-11-1959</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>We've all got both light and dark inside us. What matters is the part we choose to act on. That's who we really are!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Sirius_Black</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Gary_Oldman</actorLink>
+	</person>
+	<person>
+		<name>Remus Lupin</name>
+		<house>Gryffindor</house>
+		<image>lupin.jpg</image>
+		<actor>David Thewlis</actor>
+		<patronus>wolf</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>10-03-1960</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>My kind don’t usually breed! It will be like me, I am convinced of it how can I forgive myself, when I knowingly risked passing on my own condition to an innocent child? </blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Remus_Lupin</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/David_Thewlis</actorLink>
+	</person>
+	<person>
+		<name>Arthur Weasley</name>
+		<house>Gryffindor</house>
+		<image>arthur.jpg</image>
+		<actor>Mark Williams</actor>
+		<patronus>weasel</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>06-02-1950</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Gryffindor, where dwell the brave at heart, their daring, nerve and chivalry set Gryffindors apart.</species>
+		<blood>Fascinating, Ingenious, really how many ways Muggles have found ways of getting along without magic!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Arthur_Weasley</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Mark_Williams_(actor)</actorLink>
+	</person>
+	<person>
+		<name>Bellatrix Lestrange</name>
+		<house>Slytherin</house>
+		<image>bellatrix.jpg</image>
+		<actor>Helena Bonham Carter</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>Potter, you cannot win against me! I was and am the Dark Lord's most loyal servant. I learned the Dark Arts from him, and I know spells of such power that you, pathetic little boy,can never hope to compete!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Bellatrix_Lestrange</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Helena_Bonham_Carter</actorLink>
+	</person>
+	<person>
+		<name>Lord Voldemort</name>
+		<house>Slytherin</house>
+		<image>voldemort.jpg</image>
+		<actor>Ralph Fiennes</actor>
+		<patronus>unknown</patronus>
+		<wand>phoenix feather</wand>
+		<dateOfBirth>31-12-1926</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>in the light of Voldemort's return, we are only as strong as we are united, as weak as we are divided. Lord Voldemort's gift for spreading discord and enmity is very great!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Tom_Riddle</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Ralph_Fiennes</actorLink>
+	</person>
+	<person>
+		<name>Horace Slughorn</name>
+		<house>Slytherin</house>
+		<image>slughorn.jpg</image>
+		<actor>Jim Broadbent</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>Horace likes his comfort. He also likes the company of the famous, the successful, and the powerful. He enjoys the feeling that he influences these people. He has never wanted to occupy the throne himself!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Horace_Slughorn</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Jim_Broadbent</actorLink>
+	</person>
+	<person>
+		<name>Dolores Umbridge</name>
+		<house>Slytherin</house>
+		<image>umbridge.jpg</image>
+		<actor>Imelda Staunton</actor>
+		<patronus>persian cat</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>When they entered the Defence Against the Dark Arts classroom they found Professor Umbridge already seated at the teacher’s desk, wearing the fluffy pink cardigan of the night before and the black velvet bow on top of her head! </blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Dolores_Umbridge</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Imelda_Staunton</actorLink>
+	</person>
+	<person>
+		<name>Lucius Malfoy</name>
+		<house>Slytherin</house>
+		<image>lucius.jpg</image>
+		<actor>Jason Isaacs</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>Malfoy's been giving generously to all sorts of things for years... Gets him in with the right people... then he can ask for favours... delay laws he doesn't want passed!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Lucius_Malfoy</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Jason_Isaacs</actorLink>
+	</person>
+	<person>
+		<name>Vincent Crabbe</name>
+		<house>Slytherin</house>
+		<image>crabbe.jpg</image>
+		<actor>Jamie Waylett</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>Vincent Crabbe was born into the pure-blood Crabbe family. His father, Mr Crabbe, was a Death Eater. This likely influenced his son's prejudice against Muggle-borns and other non-pure-bloods!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Vincent_Crabbe</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Jamie_Waylett</actorLink>
+	</person>
+	<person>
+		<name>Gregory Goyle</name>
+		<house>Slytherin</house>
+		<image>goyle.jpg</image>
+		<actor>Josh Herdman</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>Or perhaps in Slytherin, you'll make your real friends, those cunning folk use any means to achieve their ends.</species>
+		<blood>We're supposed to practise the Cruciatus Curse on people who've earned detentions... I refused to do it. Some people are into it, though; Crabbe and Goyle love it!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Gregory_Goyle</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Josh_Herdman</actorLink>
+	</person>
+	<person>
+		<name>Newton Scamander</name>
+		<house>Hufflepuff</house>
+		<image>newton.jpg</image>
+		<actor>Eddie Redmayne</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>24-02-1897</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Hufflepuff,where they are just and loyal ,those patient Hufflepuffs are true and unafraid of toil.</species>
+		<blood>I have visited lairs, burrows and nests across five continents, observed the curious habits of magical beasts in a hundred countries, witnessed their powers, gained their trust and, on occasion, beaten them off with my travelling kettle!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Newton_Scamander</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Eddie_Redmayne</actorLink>
+	</person>
+	<person>
+		<name>Theseus Scamander</name>
+		<house>Hufflepuff</house>
+		<image>theseus.jpg</image>
+		<actor>Callum Turner</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>You might belong in Hufflepuff,where they are just and loyal ,those patient Hufflepuffs are true and unafraid of toil.</species>
+		<blood>At some point after he finished his magical education, Theseus would join the British Ministry of Magic, and complete a stringent series of character and aptitude tests to become a fully-fledged applicant for individuals!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Theseus_Scamander</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Callum_Turner</actorLink>
+	</person>
+	<person>
+		<name>Myrtle Warren</name>
+		<house>Ravenclaw</house>
+		<image>myrtle.jpg</image>
+		<actor>Shirley Henderson</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>Or yet in wise old Ravenclaw, if you've a ready mind ,where those of wit and learning will always find their kind.</species>
+		<blood>No one wants to upset me! That's a good one! My life was nothing but misery at this place and now people come along ruining my death!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Myrtle_Warren</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Shirley_Henderson</actorLink>
+	</person>
+	<person>
+		<name>Gilderoy Lockhart</name>
+		<house>Ravenclaw</house>
+		<image>gilderoy.jpg</image>
+		<actor>Kenneth Branagh</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>26-01-1964</dateOfBirth>
+		<gender>male</gender>
+		<species>Or yet in wise old Ravenclaw, if you've a ready mind ,where those of wit and learning will always find their kind.</species>
+		<blood>It's not all book signings and publicity photos, you know. You want fame, you have to be prepared for a long hard slog!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Gilderoy_Lockhart</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Kenneth_Branagh</actorLink>
+	</person>
+	<person>
+		<name>Quirinus Quirrell</name>
+		<house>Ravenclaw</house>
+		<image>quirinus.jpg</image>
+		<actor>Ian Hart</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn hair</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>male</gender>
+		<species>Or yet in wise old Ravenclaw, if you've a ready mind ,where those of wit and learning will always find their kind.</species>
+		<blood>I met him when I travelled around the world. A foolish young man I was then, full of ridiculous ideas about good and evil. My master showed me how wrong I was. There is no good and evil!</blood>
+		<roleLink>https://harrypotter.fandom.com/wiki/Quirinus_Quirrell</roleLink>
+		<actorLink>https://en.wikipedia.org/wiki/Ian_Hart</actorLink>
+	</person>
+</people>

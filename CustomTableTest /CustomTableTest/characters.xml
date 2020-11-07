@@ -1,0 +1,267 @@
+<?xml version="1.0" ?>
+<people>
+	<person>
+		<name>Harry Potter</name>
+		<house>Gryffindor</house>
+		<image>harry.jpg</image>
+		<actor>Daniel Radcliffe</actor>
+		<patronus>stag</patronus>
+		<wand>phoenix feather</wand>
+		<dateOfBirth>31-07-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Hermione Granger</name>
+		<house>Gryffindor</house>
+		<image>hermione.jpg</image>
+		<actor>Emma Watson</actor>
+		<patronus>otter</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>19-09-1979</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>muggleborn</blood>
+	</person>
+	<person>
+		<name>Ron Weasley</name>
+		<house>Gryffindor</house>
+		<image>ron.jpg</image>
+		<actor>Rupert Grint</actor>
+		<patronus>Jack Russell terrier</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>01-03-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Draco Malfoy</name>
+		<house>Slytherin</house>
+		<image>draco.jpg</image>
+		<actor>Tom Felton</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>05-06-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Minerva McGonagall</name>
+		<house>Gryffindor</house>
+		<image>mcgonagall.jpg</image>
+		<actor>Dame Maggie Smith</actor>
+		<patronus>tabby cat</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>04-10-1925</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>unknown</blood>
+	</person>
+	<person>
+		<name>Cedric Diggory</name>
+		<house>Hufflepuff</house>
+		<image>cedric.jpg</image>
+		<actor>Robert Pattinson</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn hair</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>unknown</blood>
+	</person>
+	<person>
+		<name>Cho Chang</name>
+		<house>Ravenclaw</house>
+		<image>cho.jpg</image>
+		<actor>Katie Leung</actor>
+		<patronus>swan</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>unknown</blood>
+	</person>
+	<person>
+		<name>Severus Snape</name>
+		<house>Slytherin</house>
+		<image>snape.jpg</image>
+		<actor>Alan Rickman</actor>
+		<patronus>doe</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>09-01-1960</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Rubeus Hagrid</name>
+		<house>Gryffindor</house>
+		<image>hagrid.jpg</image>
+		<actor>Robbie Coltrane</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>06-12-1928</dateOfBirth>
+		<gender>male</gender>
+		<species>half-giant</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Neville Longbottom</name>
+		<house>Gryffindor</house>
+		<image>neville.jpg</image>
+		<actor>Matthew Lewis</actor>
+		<patronus>unknown</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>30-07-1980</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Luna Lovegood</name>
+		<house>Ravenclaw</house>
+		<image>luna.jpg</image>
+		<actor>Evanna Lynch</actor>
+		<patronus>hare</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>13-02-1981</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>unknown</blood>
+	</person>
+	<person>
+		<name>Ginny Weasley</name>
+		<house>Gryffindor</house>
+		<image>ginny.jpg</image>
+		<actor>Bonnie Wright</actor>
+		<patronus>horse</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>11-08-1981</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Sirius Black</name>
+		<house>Gryffindor</house>
+		<image>sirius.jpg</image>
+		<actor>Gary Oldman</actor>
+		<patronus>hare</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>03-11-1959</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Remus Lupin</name>
+		<house>Gryffindor</house>
+		<image>lupin.jpg</image>
+		<actor>David Thewlis</actor>
+		<patronus>wolf</patronus>
+		<wand>unicorn tail-hair</wand>
+		<dateOfBirth>10-03-1960</dateOfBirth>
+		<gender>male</gender>
+		<species>werewolf</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Arthur Weasley</name>
+		<house>Gryffindor</house>
+		<image>arthur.jpg</image>
+		<actor>Mark Williams</actor>
+		<patronus>weasel</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>06-02-1950</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Bellatrix Lestrange</name>
+		<house>Slytherin</house>
+		<image>bellatrix.jpg</image>
+		<actor>Helena Bonham Carter</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Lord Voldemort</name>
+		<house>Slytherin</house>
+		<image>voldemort.jpg</image>
+		<actor>Ralph Fiennes</actor>
+		<patronus>unknown</patronus>
+		<wand>phoenix feather</wand>
+		<dateOfBirth>31-12-1926</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Horace Slughorn</name>
+		<house>Slytherin</house>
+		<image>slughorn.jpg</image>
+		<actor>Jim Broadbent</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Dolores Umbridge</name>
+		<house>Slytherin</house>
+		<image>umbridge.jpg</image>
+		<actor>Imelda Staunton</actor>
+		<patronus>persian cat</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>female</gender>
+		<species>human</species>
+		<blood>half-blood</blood>
+	</person>
+	<person>
+		<name>Lucius Malfoy</name>
+		<house>Slytherin</house>
+		<image>lucius.jpg</image>
+		<actor>Jason Isaacs</actor>
+		<patronus>unknown</patronus>
+		<wand>dragon heartstring</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Vincent Crabbe</name>
+		<house>Slytherin</house>
+		<image>crabbe.jpg</image>
+		<actor>Jamie Waylett</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+	<person>
+		<name>Gregory Goyle</name>
+		<house>Slytherin</house>
+		<image>goyle.jpg</image>
+		<actor>Josh Herdman</actor>
+		<patronus>unknown</patronus>
+		<wand>unknown</wand>
+		<dateOfBirth>unknown</dateOfBirth>
+		<gender>male</gender>
+		<species>human</species>
+		<blood>pure-blood</blood>
+	</person>
+</people>
