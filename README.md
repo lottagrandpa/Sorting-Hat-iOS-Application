@@ -1,10 +1,10 @@
 Harry Potter - The sorting App
 ===============================
-The version of my xcode is built on V11.3 iphone8 and if there's any incompatible issues I could display my work directly on my laptop.
+The version of my xcode is built on V11.3 iphone8.
 
 Database
 -----------
-the foundation of the database was grabbed from https://hp-api.herokuapp.com. The data was extended using information from https://harrypotter.fandom.com. The database was converted to xml and an xml parser implemented in swift. The xml parser does not only read the data into a single list, but sorts the data into four lists based on the house-attribute in the data. Images were completely replaced, as the original ones were not suitable for the layout of the app.
+The foundation of the database was grabbed from https://hp-api.herokuapp.com. using Python. The data was extended using information from https://harrypotter.fandom.com. The database was converted to xml and an xml parser implemented in swift. The xml parser does not only read the data into a single list, but sorts the data into four lists based on the house-attribute in the data. Images were completely replaced, as the original ones were not suitable for the layout of the app.
 
 
 Multiple Houses
@@ -44,5 +44,6 @@ Multiple Webpage links
 The tabbar at the bottom of the page now presents three buttons. The home button as well as two links to different websites. One link shows the wikipedia for the role in the Harry Potter universe and the other shows the wikipedia for the actor playing that character in the movies.
 
 
-From Jiaying ZHang
-StudentID: 119220961
+Author
+-------
+JIAYING ZHANG
