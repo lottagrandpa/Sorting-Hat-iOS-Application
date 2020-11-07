@@ -1,6 +1,6 @@
-Harry Potter - The sorting App
+Harry Potter : The Sorting Hat App
 ===============================
-The version of my xcode is built on V11.3 iphone8.
+The version of xcode is built on V11.3 iphone8.
 
 Database
 -----------
@@ -41,7 +41,7 @@ The fourth screen presents all the detailed data as key-value pairs in text. In 
 
 Multiple Webpage links
 -----------------------
-The tabbar at the bottom of the page now presents three buttons. The home button as well as two links to different websites. One link shows the wikipedia for the role in the Harry Potter universe and the other shows the wikipedia for the actor playing that character in the movies.
+The tab bar at the bottom of the page now presents three buttons. The home button as well as two links to different websites. One link shows the wikipedia for the role in the Harry Potter universe and the other shows the wikipedia for the actor playing that character in the movies.
 
 
 Author
