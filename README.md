@@ -4,7 +4,7 @@ The version of xcode is built on V11.3 iphone8.
 
 Database
 -----------
-The foundation of the database was grabbed from https://hp-api.herokuapp.com. using Python. The data was extended using information from https://harrypotter.fandom.com. The database was converted to xml and an xml parser implemented in swift. The xml parser does not only read the data into a single list, but sorts the data into four lists based on the house-attribute in the data. Images were completely replaced, as the original ones were not suitable for the layout of the app.
+The foundation of the database was grabbed from https://hp-api.herokuapp.com. using Python. The data was extended using information from https://harrypotter.fandom.com. The database was converted to xml and an xml parser implemented in swift. The xml parser does not only read the data into a single list, but sorts the data into four lists based on the house-attribute in the data. 
 
 
 Multiple Houses
@@ -16,13 +16,13 @@ Carousel Selector in Obj-Carousel
 ----------------------------------
 THe first view presents the shields of the four houses of Hogwarts. Selection of the house for the following views is done creatively with a carousel. The carousel is a foreign library https://github.com/nicklockwood/icarousel. The library is implemented in obj-C and had to be integrated in the swift environment. The Carousel was customized to match the style Harry Potter. obj-C selector functions were attached s.t. a segue can be triggered from the carousel images.
 
-Custom Tablecell
+Custom TableCell
 ----------------
 The next view presents all the members of that house in a TableViewController with custom TableCells. Responsive constraints for position and height were used throughout the tablecell in order to make the app portable to smartphones with different screen sizes. The look and feel of the TableViewController was partly inspired by the way Instagram presents its data.
 
 Custom UIView
 -------------
-Upon clicking on a tablecell the user is directed to the third view. Here some more detailed information for a single person is presented. The layout is done with a custom UIView and includes changes to the corner-radius, background-color and font. 
+Upon clicking on a tableCell the user is directed to the third view. Here some more detailed information for a single person is presented. The layout is done with a custom UIView and includes changes to the corner-radius, background-color and font. 
 
 Tabbar Control with unwind segue
 --------------------------------
